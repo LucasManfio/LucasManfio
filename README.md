@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá! 👋 Eu sou o Lucas
 
-<!--
-**LucasManfio/LucasManfio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇧🇷 **Português** |
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🇧🇷 Sobre mim
+
+Sou estudante de Ciência da Computação e desenvolvedor em formação, com experiência prática em projetos pessoais de programação e desenvolvimento de jogos.
+
+Tenho bastante interesse em desenvolvimento backend, APIs, automação, estruturas de dados e arquitetura de software.
+
+Estou em busca de oportunidades para aplicar meus conhecimentos, colaborar com equipes de desenvolvimento e continuar evoluindo profissionalmente.
+
+### 🛠️ Tecnologias e ferramentas
+
+- **Linguagens:** Luau, Java e Python
+- **Desenvolvimento de jogos:** Roblox Studio
+- **Áreas de interesse:** Desenvolvimento de software, lógica de programação, bancos de dados e automação
+- **Ferramentas:** Git e GitHub
+
+### 🚀 Projetos
+
+Confira meus repositórios para conhecer meus projetos, experimentos e minha evolução como desenvolvedor.
+
+### 📫 Contato
+
+- **GitHub:** https://github.com/LucasManfio
+- **LinkedIn:** https://www.linkedin.com/in/lucas-rafael-020623418/
+- **E-mail:** Lucasmanfio13@gmail.com
